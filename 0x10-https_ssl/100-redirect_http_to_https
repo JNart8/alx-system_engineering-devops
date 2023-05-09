@@ -48,4 +48,4 @@ frontend jnart8-frontend-https
 backend jnart8-backend
         balance roundrobin
         server 99696-web-01 100.26.20.16:80 check
-        server 99696-web-01 54.209.74.225:80 check
+        server 99696-web-02 54.209.74.225:80 check
